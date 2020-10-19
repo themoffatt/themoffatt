@@ -1,4 +1,4 @@
-I'm Adam Moffatt (KD9PXW), a passionate, servant leader. Delivering results with happy coworkers is what motivates me every day. I take pride in providing outstanding technology solutions for my customers as well as my team. I have a proven track record of leadership that inspires everyone around me to put in their best work.
+I'm Adam Moffatt (K9GPW), a passionate, servant leader. Delivering results with happy coworkers is what motivates me every day. I take pride in providing outstanding technology solutions for my customers as well as my team. I have a proven track record of leadership that inspires everyone around me to put in their best work.
 
 - Hands-off management style; hands-on tech
 - Proven track record of delivering fast, reliable solutions
