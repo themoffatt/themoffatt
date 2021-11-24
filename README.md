@@ -34,7 +34,7 @@ I'm Adam Moffatt (K9GPW), a passionate, servant leader. Delivering results with 
 
 ### Director of Software Engineering - OneMain Financial
 
-- ** Director of Software Engineering** 
+- **Director of Software Engineering** 
   December 2019 - April 2021
 - **Software Engineering Manager**
   May 2019 – December 2019
@@ -81,6 +81,5 @@ I'm Adam Moffatt (K9GPW), a passionate, servant leader. Delivering results with 
 
 ---
 
-**2013-2014 Western Governors University**
-
+**2013-2014 Western Governors University** - 
 BS – IT Software Development
