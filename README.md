@@ -32,10 +32,10 @@ I'm Adam Moffatt (K9GPW), a passionate, servant leader. Delivering results with 
 
 ---
 
-### Associate Director of Software Engineering - OneMain Financial
+### Director of Software Engineering - OneMain Financial
 
-- **Associate Director of Software Engineering** 
-  December 2019 - Present
+- ** Director of Software Engineering** 
+  December 2019 - April 2021
 - **Software Engineering Manager**
   May 2019 – December 2019
 - **Lead Software Engineer**
